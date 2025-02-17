@@ -22,4 +22,4 @@ Tested and works only GoldSrc:
 + Blender 4.1-stable
 + Blender 4.3
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://sun9-24.userapi.com/impg/TkCjd9eFomRgLgRs2ukl4VkLQsmByFok2-YY7A/jkLeSpIJKVk.jpg?size=1287x1080&quality=95&sign=0994638d4cb30c94756759fb90712975&type=album))
+![Screenshot.](https://i.postimg.cc/nzQ6ntpp/resiava.png)
